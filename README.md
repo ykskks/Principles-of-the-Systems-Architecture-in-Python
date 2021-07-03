@@ -1,1 +1,2 @@
-# Principles-of-the-Systems-Architecture-in-Python
+# 現場で役立つシステム設計の原則
+現場で役立つシステム設計の原則（増田 享）のJavaコードををPythonで実装し直して理解を深める
